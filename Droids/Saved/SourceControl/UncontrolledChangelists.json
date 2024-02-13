@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/gamec/Documents/GameJam2024/Droids/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/gamec/Documents/GameJam2024/Droids/Content/Blueprints/Character/BP_BaseCharacter.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Maps/Space_HLOD0_Instancing.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/B/WB/4XP5V5SQYF2MGX67XS895A.uasset",
