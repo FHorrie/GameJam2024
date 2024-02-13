@@ -9,6 +9,11 @@
 				"C:/Users/gamec/Documents/GameJam2024/Droids/Content/Blueprints/Character/BP_BaseCharacter.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Maps/Space_HLOD0_Instancing.uasset",
+				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Maps/Space.umap",
+				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Blueprints/Input/IMC_PlayerInput.uasset",
+				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Blueprints/Input/Controls/IA_Move.uasset",
+				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Blueprints/Input/Controls/IA_Fire.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/B/WB/4XP5V5SQYF2MGX67XS895A.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalObjects__/Maps/Space/7/2F/AFF09E20KYJ6UXK5LQLJJH.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalObjects__/Maps/Space/8/9B/78IG1QM6VL2O5NY6ARU3OO.uasset",
@@ -85,8 +90,7 @@
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/8/JX/LZ95W8HCD9KLJWLF0H9ITY.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/1/JE/9VAIIMN3AYKG45JHCRZMFB.uasset",
 				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/0/46/Y65ZHBKY6HLF2A50PUB15W.uasset",
-				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/2/RI/ZNY4OFYIJNV9CAN70IRK6K.uasset",
-				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/Maps/Space.umap"
+				"C:/Users/renzy/Bureaublad/DAE COURSES/GameJam/GameJam2024/Droids/Content/__ExternalActors__/Maps/Space/2/RI/ZNY4OFYIJNV9CAN70IRK6K.uasset"
 			]
 		}
 	]
